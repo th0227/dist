@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+
+<project name="antsample" default="defaulttarget">
+
+  <target name="defaulttarget">
+    <echo message="????????"/>
+  </target>
+
+</project>
+
